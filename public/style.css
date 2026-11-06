@@ -1,0 +1,187 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #101827;
+  color: #f8fafc;
+}
+
+.topbar {
+  padding: 18px;
+  background: #172338;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #29374d;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo {
+  background: #e6a832;
+  color: #101827;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.brand h2 {
+  font-size: 16px;
+}
+
+.brand small, .welcome p, .stat span {
+  color: #9baac0;
+}
+
+.online {
+  color: #4ade80;
+  font-size: 12px;
+}
+
+main {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.welcome {
+  padding: 30px 0;
+}
+
+.welcome p:first-child {
+  color: #e6a832;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.welcome h1 {
+  margin: 12px 0;
+  font-size: 27px;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-bottom: 22px;
+}
+
+.stat, .panel {
+  background: #1b2940;
+  border: 1px solid #29374d;
+  border-radius: 14px;
+  padding: 18px;
+}
+
+.stat strong {
+  display: block;
+  font-size: 29px;
+  color: #e6a832;
+  margin-top: 12px;
+}
+
+.panel {
+  margin-bottom: 20px;
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.panel h2 {
+  font-size: 19px;
+  margin-bottom: 7px;
+}
+
+.panel p {
+  color: #9baac0;
+  font-size: 13px;
+}
+
+button {
+  background: #e6a832;
+  color: #101827;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.video-card {
+  background: #26364e;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+
+.video-card h3 {
+  font-size: 15px;
+  margin-bottom: 9px;
+}
+
+.video-card p {
+  margin-bottom: 8px;
+}
+
+.status {
+  display: inline-block;
+  font-size: 11px;
+  padding: 5px 9px;
+  border-radius: 20px;
+  background: #34445d;
+  color: #facc15;
+}
+
+.platform {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 15px 0;
+}
+
+.pending {
+  color: #facc15;
+  font-size: 12px;
+}
+
+.notice {
+  background: #26364e;
+  padding: 12px;
+  border-radius: 8px;
+  line-height: 1.5;
+}
+
+footer {
+  text-align: center;
+  padding: 30px 10px;
+  color: #9baac0;
+}
+
+footer h3 {
+  color: #e6a832;
+  margin-bottom: 8px;
+}
+
+footer small {
+  display: block;
+  margin-top: 12px;
+}
+
+@media (min-width: 650px) {
+  .stats {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

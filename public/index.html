@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#101827">
+<title>Future Tech Africa | Dashboard</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">FTA</div>
+    <div>
+      <h2>Future Tech Africa</h2>
+      <small>Creator Dashboard</small>
+    </div>
+  </div>
+  <span class="online">● Online</span>
+</header>
+
+<main>
+  <section class="welcome">
+    <p>CONTENT MANAGEMENT</p>
+    <h1>Welcome back, Creator 👋</h1>
+    <p>Manage your educational technology videos in one place.</p>
+  </section>
+
+  <section class="stats">
+    <article class="stat">
+      <span>Total videos</span>
+      <strong id="total">--</strong>
+    </article>
+    <article class="stat">
+      <span>Ready</span>
+      <strong id="ready">--</strong>
+    </article>
+    <article class="stat">
+      <span>Published</span>
+      <strong id="published">--</strong>
+    </article>
+    <article class="stat">
+      <span>Archived</span>
+      <strong id="archived">--</strong>
+    </article>
+  </section>
+
+  <section class="panel">
+    <div class="section-heading">
+      <div>
+        <h2>Video Library</h2>
+        <p>Your generated educational content</p>
+      </div>
+      <button onclick="loadDashboard()">Refresh</button>
+    </div>
+    <div id="videos" class="videos">
+      Loading videos...
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Publishing Platforms</h2>
+    <div class="platform">
+      <div>
+        <strong>TikTok</strong>
+        <p>Content Posting API integration</p>
+      </div>
+      <span class="pending">Setup pending</span>
+    </div>
+    <p class="notice">TikTok publishing will become available after API integration and approval.</p>
+  </section>
+
+  <footer>
+    <h3>FUTURE TECH AFRICA</h3>
+    <p>Learn Today. Build Tomorrow.</p>
+    <small>© 2026 Future Tech Africa</small>
+  </footer>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

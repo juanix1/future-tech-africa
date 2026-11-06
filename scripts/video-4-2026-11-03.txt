@@ -1,0 +1,19 @@
+Future Tech Africa
+Daily Video 4
+Date: 2026-11-03
+
+CATEGORY: Web Development
+TOPIC: What is HTML?
+
+HOOK:
+Every website needs a structure!
+
+EXPLANATION:
+HTML provides the basic structure and content of web pages.
+
+CALL TO ACTION:
+Follow us to learn web development.
+
+FORMAT: Vertical 9:16
+TARGET LENGTH: 10–15 seconds
+PRESENTER: 3D male technology educator

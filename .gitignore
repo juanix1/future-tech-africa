@@ -1,0 +1,11 @@
+.env
+node_modules/
+videos/
+
+
+backups/
+library/
+
+*.backup-*
+
+*backup*.js

@@ -1,0 +1,19 @@
+Future Tech Africa
+Daily Video 4
+Date: 2026-11-02
+
+CATEGORY: Web Development
+TOPIC: What is an API?
+
+HOOK:
+How do two different apps communicate?
+
+EXPLANATION:
+An API allows different software systems to exchange information and work together.
+
+CALL TO ACTION:
+Follow us for more technology lessons.
+
+FORMAT: Vertical 9:16
+TARGET LENGTH: 10–15 seconds
+PRESENTER: 3D male technology educator

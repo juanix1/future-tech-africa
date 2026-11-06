@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "id": "video-1-2026-11-03",
+      "title": "What is JavaScript?",
+      "category": "Programming",
+      "date": "2026-11-03",
+      "status": "published",
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/published/2026-11-03/video-1-2026-11-03.mp4"
+    },
+    {
+      "id": "video-2-2026-11-03",
+      "title": "What is AI?",
+      "category": "Artificial Intelligence",
+      "date": "2026-11-03",
+      "status": "published",
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/published/2026-11-03/video-2-2026-11-03.mp4"
+    },
+    {
+      "id": "video-3-2026-11-03",
+      "title": "What is an API?",
+      "category": "Technology",
+      "date": "2026-11-03",
+      "status": "ready",
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/ready/2026-11-03/video-3-2026-11-03.mp4"
+    },
+    {
+      "id": "video-4-2026-11-03",
+      "title": "What is HTML?",
+      "category": "Web Development",
+      "date": "2026-11-03",
+      "status": "ready",
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/ready/2026-11-03/video-4-2026-11-03.mp4"
+    },
+    {
+      "id": "video-1-2026-11-03-new",
+      "title": "Why strong passwords matter",
+      "category": "Cybersecurity",
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/ready/2026-11-03/video-1-2026-11-03.mp4",
+      "date": "2026-11-03",
+      "status": "ready"
+    }
+  ]
+}

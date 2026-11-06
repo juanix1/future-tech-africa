@@ -1,0 +1,19 @@
+Future Tech Africa
+Daily Video 1
+Date: 2026-11-02
+
+CATEGORY: Programming
+TOPIC: What is JavaScript?
+
+HOOK:
+Did you know this language powers millions of websites?
+
+EXPLANATION:
+JavaScript makes websites interactive. It can also power servers, apps and games.
+
+CALL TO ACTION:
+Follow Future Tech Africa to learn coding.
+
+FORMAT: Vertical 9:16
+TARGET LENGTH: 10–15 seconds
+PRESENTER: 3D male technology educator
