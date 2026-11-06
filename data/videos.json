@@ -6,7 +6,9 @@
       "category": "Programming",
       "date": "2026-11-03",
       "status": "published",
-      "file": "/data/data/com.termux/files/home/future-tech-africa/library/published/2026-11-03/video-1-2026-11-03.mp4"
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/published/2026-11-03/video-1-2026-11-03.mp4",
+      "cloudinaryUrl": "https://res.cloudinary.com/dvpowfkv/video/upload/v1793972052/future-tech-africa/video-1-2026-11-03.mp4",
+      "cloudinaryPublicId": "future-tech-africa/video-1-2026-11-03"
     },
     {
       "id": "video-2-2026-11-03",
@@ -14,7 +16,9 @@
       "category": "Artificial Intelligence",
       "date": "2026-11-03",
       "status": "published",
-      "file": "/data/data/com.termux/files/home/future-tech-africa/library/published/2026-11-03/video-2-2026-11-03.mp4"
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/published/2026-11-03/video-2-2026-11-03.mp4",
+      "cloudinaryUrl": "https://res.cloudinary.com/dvpowfkv/video/upload/v1793972092/future-tech-africa/video-2-2026-11-03.mp4",
+      "cloudinaryPublicId": "future-tech-africa/video-2-2026-11-03"
     },
     {
       "id": "video-3-2026-11-03",
@@ -22,7 +26,9 @@
       "category": "Technology",
       "date": "2026-11-03",
       "status": "ready",
-      "file": "/data/data/com.termux/files/home/future-tech-africa/library/ready/2026-11-03/video-3-2026-11-03.mp4"
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/ready/2026-11-03/video-3-2026-11-03.mp4",
+      "cloudinaryUrl": "https://res.cloudinary.com/dvpowfkv/video/upload/v1793972145/future-tech-africa/video-3-2026-11-03.mp4",
+      "cloudinaryPublicId": "future-tech-africa/video-3-2026-11-03"
     },
     {
       "id": "video-4-2026-11-03",
@@ -30,7 +36,9 @@
       "category": "Web Development",
       "date": "2026-11-03",
       "status": "ready",
-      "file": "/data/data/com.termux/files/home/future-tech-africa/library/ready/2026-11-03/video-4-2026-11-03.mp4"
+      "file": "/data/data/com.termux/files/home/future-tech-africa/library/ready/2026-11-03/video-4-2026-11-03.mp4",
+      "cloudinaryUrl": "https://res.cloudinary.com/dvpowfkv/video/upload/v1793972198/future-tech-africa/video-4-2026-11-03.mp4",
+      "cloudinaryPublicId": "future-tech-africa/video-4-2026-11-03"
     },
     {
       "id": "video-1-2026-11-03-new",
@@ -38,7 +46,9 @@
       "category": "Cybersecurity",
       "file": "/data/data/com.termux/files/home/future-tech-africa/library/ready/2026-11-03/video-1-2026-11-03.mp4",
       "date": "2026-11-03",
-      "status": "ready"
+      "status": "ready",
+      "cloudinaryUrl": "https://res.cloudinary.com/dvpowfkv/video/upload/v1793972265/future-tech-africa/video-1-2026-11-03-new.mp4",
+      "cloudinaryPublicId": "future-tech-africa/video-1-2026-11-03-new"
     }
   ]
 }
